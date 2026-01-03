@@ -3,16 +3,16 @@ The **HR Intelligence Dashboard for ZENVY** analyzes employee attendance, salary
 
 
 
-📊 ZENVY HR Intelligence Dashboard — README
+### 📊 ZENVY HR Intelligence Dashboard — README
 🧾 Project Overview
 
 The ZENVY HR Intelligence Dashboard is a Power BI report designed to provide actionable insights into workforce attendance, payroll accuracy, and overtime patterns. It enables HR and leadership teams to monitor key workforce metrics, detect anomalies (like ghost employees or salary leakages), and improve operational decision-making.
 
-📌 Data Source
+### 📌 Data Source
 
 The dashboard uses the ZENVY HR Intelligence Dataset with the following fields:
 
-Field	Description
+### Field	Description
 Employee_ID	Unique identifier for each employee
 Employee_Name	Name of the employee
 Employee_Status	Active / Inactive
@@ -30,8 +30,9 @@ Deductions	Salary deductions
 Overtime_Hours	Overtime worked
 Overtime_Pay	Overtime payment
 Payment_Date	Salary paid date
-🧠 Key Features & Insights
-🔍 Workforce Compliance & Accuracy
+
+### 🧠 Key Features & Insights
+### 🔍 Workforce Compliance & Accuracy
 
 Attendance Monitoring: Detect attendance gaps or missing punch data.
 
@@ -39,7 +40,9 @@ Ghost Employee Detection: Identify active employees with no valid attendance or 
 
 Overtime Abuse: Highlight excessive overtime hours/pay beyond policy limits.
 
-💰 Payroll Integrity
+
+
+### 💰 Payroll Integrity
 
 Salary Leakage Analysis: Compare pay vs. actual attendance & work hours.
 
@@ -47,7 +50,9 @@ Net vs. Gross Salary Trends: Analyze deduction patterns and discrepancies.
 
 Duplicate Salary Detection: Identify multiple salary credits in the same period.
 
-📊 Interactive Analytics
+
+
+### 📊 Interactive Analytics
 
 Dynamic Filters: Slice by Department, Location, Employment Type, Date, etc.
 
@@ -55,7 +60,9 @@ Drill-Down Views: From organization level analytics to individual employee detai
 
 Visual KPIs: Bar charts, heatmaps, trend lines for quick interpretation.
 
-🛠 How to Use the Dashboard
+
+
+### 🛠 How to Use the Dashboard
 
 Load Dataset: Import the ZENVY HR Intelligence Dataset into Power BI.
 
@@ -67,7 +74,9 @@ Analyze Visuals: Explore trends, anomalies, and performance across HR metrics.
 
 Export / Share: Export key visuals or share the report with stakeholders.
 
-📈 Business Benefits
+
+
+### 📈 Business Benefits
 
 ✔ Detect and eliminate payroll fraud
 ✔ Improve attendance and policy compliance
@@ -77,7 +86,7 @@ Export / Share: Export key visuals or share the report with stakeholders.
 
 
 
-Power BI – Data visualization & dashboard creation
+### Power BI – Data visualization & dashboard creation
 
 
 ## 📷 Dashboard Screenshots
