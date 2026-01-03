@@ -73,3 +73,16 @@ Export / Share: Export key visuals or share the report with stakeholders.
 ✔ Improve attendance and policy compliance
 ✔ Reduce unnecessary overtime payments
 ✔ Support strategic HR planning with real data
+
+
+
+
+Power BI – Data visualization & dashboard creation
+
+
+## 📷 Dashboard Screenshots
+### EXECUTIVE PAYROLL OVERVIEW
+![EXECUTIVE PAYROLL OVERVIEW](https://github.com/yuvrajpawar4766/HR-Intelligence-Dashboard-for-ZENVY./blob/6729d3f401dbf824306bc0f3029815a2b5115ceb/Screenshot%202026-01-03%20122727.png)
+
+### PAYROLL RISK & INTELLIGENCE
+![PAYROLL RISK & INTELLIGENCE](https://github.com/yuvrajpawar4766/HR-Intelligence-Dashboard-for-ZENVY./blob/6729d3f401dbf824306bc0f3029815a2b5115ceb/Screenshot%202026-01-03%20122742.png)
